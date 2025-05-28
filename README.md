@@ -35,9 +35,7 @@ Escalabilidade para até 100 contas e 10.000 transações.
 # 📚 Tecnologias Utilizadas
 
 Banco de dados: MySQL
-Linguagem back-end: (especificar conforme implementado, ex.: Java, Python)
-Front-end: (especificar tecnologia usada, ex.: JavaFX, React)
-Conexão banco: JDBC (Java) ou equivalente
+Linguagem back-end: Java
 
 📄 Licença
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
